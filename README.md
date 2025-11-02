@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Zaid Wadood</h1>
+<h1 align="center">Hi , I'm Mohammad Zaid Wadood</h1>
 <h3 align="center"> Learner | Tech Explorer</h3>
 
 ---
@@ -7,7 +7,7 @@
 - 💻 I love working with **C, C++, Python, and JavaScript**
 - 🌱 Currently exploring **Machine Learning, Data Science, Big Data**
 - 🧩 Interested in **system-level programming**, **data structures**, and **AI-driven applications**
-- ⚡ Fun fact: I believe in learning by building!
+
 
 ---
 
