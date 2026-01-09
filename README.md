@@ -20,13 +20,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzw111&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzw111&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=mzw111&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
----
 
 ### 🌐 Connect With Me
 <p align="left">
