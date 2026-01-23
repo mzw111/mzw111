@@ -3,25 +3,18 @@
 
 ---
 
-### 🧠 About Me
-- 💻 I love working with **C, C++, Python, and JavaScript**
-- 🌱 Currently exploring **Machine Learning, Data Science, Big Data**
-- 🧩 Interested in **system-level programming**, **data structures**, and **AI-driven applications**
+###  About Me
+-  I love working with **C, C++, Python, and JavaScript**
+-  Currently exploring **Machine Learning, Data Science, Big Data**
+-  Interested in **system-level programming**, **data structures**, and **AI-driven applications**
 
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzw111&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 
