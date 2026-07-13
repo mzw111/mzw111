@@ -28,7 +28,7 @@
 
 <br/>
 
-##  Sworn Brothers — Tech & Tools
+##  Swords and Shields
 
 <div align="center">
 
