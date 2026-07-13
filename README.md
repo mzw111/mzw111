@@ -21,9 +21,8 @@
 > *"I shall live and debug at my post, until the deploy is done."*
 
 
--  Training in the old ways: **DSA** — recursion, backtracking, graphs, trees, DP, greedy
+-  Trying to build something which holds.
 -  My arms: **FastAPI · React · MongoDB · MySQL · Redis · JWT**
--  House words: *"Winter is Coming"* — and with it, campus placement season
 -  Currently rallying the garrison for **SDE roles**
 
 <br/>
