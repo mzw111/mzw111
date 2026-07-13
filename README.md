@@ -43,7 +43,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,github,vscode&perline=7" />
 
 </div>
 
