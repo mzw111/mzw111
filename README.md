@@ -62,15 +62,7 @@ me.say_hi()
 
 </div>
 
-<br/>
 
-##  Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mzw111&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
 
 ##  Contribution Graph
 
@@ -79,14 +71,6 @@ me.say_hi()
 </div>
 
 <br/>
-
-##  Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mzw111/mzw111/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
->  Setup note: the snake animation above needs a tiny one-time GitHub Action (free, ~2 min setup). I've included the exact steps below.
 
 <br/>
 
