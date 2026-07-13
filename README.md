@@ -19,7 +19,6 @@
 class Zaid:
     def __init__(self):
         self.name = "Mohammad Zaid Wadood"
-        self.role = ""
         self.languages = ["C", "C++", "Python", "JavaScript"]
         self.exploring = ["Machine Learning", "Data Science", "Big Data"]
         self.interests = ["System Design", "Data Structures & Algorithms", "AI-driven Apps"]
