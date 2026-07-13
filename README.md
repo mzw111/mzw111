@@ -1,73 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Zaid%20Wadood&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learner%20%7C%20Tech%20Explorer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2b36,100:0d1117&height=220&section=header&text=Mohammad%20Zaid%20Wadood&fontSize=40&fontColor=7fdbff&animation=fadeIn&fontAlignY=35&desc=A%20Sworn%20Brother%20of%20the%20Code%20%7C%20The%20Watcher%20on%20the%20Repo&descAlignY=55&descSize=17&descColor=c9d6df" width="100%"/>
 
-
+<a href="https://github.com/mzw111">
+  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=21&pause=1200&color=7FDBFF&center=true&vCenter=true&width=650&lines=Winter+is+Coming...+and+so+are+Placements;The+Watcher+on+the+Codebase;For+the+Watch%2C+For+the+Craft;Recursion+Never+Sleeps+%F0%9F%A6%89" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mzw111&color=6c63ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/mzw111?label=Followers&style=for-the-badge&color=6c63ff" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=mzw111&color=0d1117&style=for-the-badge&label=RAVENS+RECEIVED"/>
+<img src="https://img.shields.io/github/followers/mzw111?label=SWORN+BROTHERS&style=for-the-badge&color=0d1117&labelColor=1c2b36"/>
 
 </div>
 
 <br/>
 
-##  About Me
+##  The Ranger's Log
 
-```python
-class Zaid:
-    def __init__(self):
-        self.name = "Mohammad Zaid Wadood"
-        self.languages = ["C", "C++", "Python", "JavaScript"]
-        self.exploring = ["Machine Learning", "Data Science", "Big Data"]
-        self.interests = ["System Design", "Data Structures & Algorithms", "AI-driven Apps"]
-        
+> *"Night gathers, and my compiling begins. It shall not end until my code is clean. I shall write no bloated function, and build no fragile release. I shall live and debug at my post, until the deploy is done."*
 
-    def say_hi(self):
-        print("Thanks for stopping by...")
 
-me = Zaid()
-me.say_hi()
-```
-
--  Deepening my grip on **DSA** — recursion, backtracking, graphs, trees, DP, greedy
--  Comfortable across **FastAPI · React · MongoDB · MySQL · Redis · JWT** (MERN-adjacent stack)
--  Actively preparing for **SDE internship & campus placement** interviews
-
+-  Training in the old ways: **DSA** — recursion, backtracking, graphs, trees, DP, greedy
+-  My arms: **FastAPI · React · MongoDB · MySQL · Redis · JWT**
+-  House words: *"Winter is Coming"* — and with it, campus placement season
+-  Currently rallying the garrison for **SDE roles**
 
 <br/>
 
-##  Languages & Tools
+##  Sworn Brothers — Tech & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,git,github,vscode,linux&theme=dark&perline=7" />
 
 </div>
 
-<br/>
 
 
 
 
 
-##  Contribution Graph
+## Beyond the Wall — Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzw111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzw111&bg_color=0d1117&color=7fdbff&line=7fdbff&point=c9d6df&area_color=1c2b36&area=true&title_color=7fdbff&hide_border=true" width="95%"/>
 </div>
 
-<br/>
 
-<br/>
-
-##  Connect With Me
+##  Send a Raven
 
 <div align="center">
 
-<a href="mailto:zaidwadood15723@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zaid-wadood-a49483240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://leetcode.com/u/MZW111/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/zaid-wadood-a49483240/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7fdbff&labelColor=0d1117"/></a>
+<a href="https://leetcode.com/u/MZW111/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=7fdbff&labelColor=0d1117"/></a>
+<a href="mailto:zaidwadood15723@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=7fdbff&labelColor=0d1117"/></a>
 
 </div>
 
@@ -75,8 +61,8 @@ me.say_hi()
 
 <div align="center">
 
- **Feel free to explore my repositories — and if something's useful, drop a star!**
+**The night is dark and full of bugs — but every commit holds the line.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2b36,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
