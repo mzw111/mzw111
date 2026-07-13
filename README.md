@@ -18,7 +18,7 @@
 
 ##  The Ranger's Log
 
-> *"I shall live and debug at my post, until the deploy is done."*
+> *"I shall live and debug at my post, until the deployment is done."*
 
 
 -  Trying to build something which holds.
