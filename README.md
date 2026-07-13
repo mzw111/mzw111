@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class Zaid:
@@ -25,34 +25,33 @@ class Zaid:
         self.languages = ["C", "C++", "Python", "JavaScript"]
         self.exploring = ["Machine Learning", "Data Science", "Big Data"]
         self.interests = ["System Design", "Data Structures & Algorithms", "AI-driven Apps"]
-        self.currently_building = "CodePulse 🚀"
+        
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something great!")
+        print("Thanks for stopping by...")
 
 me = Zaid()
 me.say_hi()
 ```
 
-- 🔭 Currently building **CodePulse**, a full-stack project sharpening my systems-thinking beyond basic CRUD
-- 🌱 Deepening my grip on **DSA** — recursion, backtracking, graphs, trees, DP, greedy
-- 💻 Comfortable across **FastAPI · React · MongoDB · MySQL · Redis · JWT** (MERN-adjacent stack)
-- 🎯 Actively preparing for **SDE internship & campus placement** interviews
-- ⚡ Fun fact: I like my code clean, my APIs RESTful, and my README animated ✨
+-  Deepening my grip on **DSA** — recursion, backtracking, graphs, trees, DP, greedy
+-  Comfortable across **FastAPI · React · MongoDB · MySQL · Redis · JWT** (MERN-adjacent stack)
+-  Actively preparing for **SDE internship & campus placement** interviews
+-  Fun fact: I like my code clean, my APIs RESTful, and my README animated ✨
 
 <br/>
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,git,github,vscode,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,fastapi,mongodb,mysql,redis,git,github,vscode&perline=7" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -67,7 +66,7 @@ me.say_hi()
 
 <br/>
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mzw111&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
@@ -75,7 +74,7 @@ me.say_hi()
 
 <br/>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mzw111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
@@ -83,17 +82,17 @@ me.say_hi()
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mzw111/mzw111/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-> ⚙️ Setup note: the snake animation above needs a tiny one-time GitHub Action (free, ~2 min setup). I've included the exact steps below.
+>  Setup note: the snake animation above needs a tiny one-time GitHub Action (free, ~2 min setup). I've included the exact steps below.
 
 <br/>
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -107,7 +106,7 @@ me.say_hi()
 
 <div align="center">
 
-⭐ **Feel free to explore my repositories — and if something's useful, drop a star!**
+ **Feel free to explore my repositories — and if something's useful, drop a star!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
