@@ -35,7 +35,7 @@ me.say_hi()
 -  Deepening my grip on **DSA** — recursion, backtracking, graphs, trees, DP, greedy
 -  Comfortable across **FastAPI · React · MongoDB · MySQL · Redis · JWT** (MERN-adjacent stack)
 -  Actively preparing for **SDE internship & campus placement** interviews
--  Fun fact: I like my code clean, my APIs RESTful, and my README animated ✨
+
 
 <br/>
 
@@ -49,18 +49,7 @@ me.say_hi()
 
 <br/>
 
-##  GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mzw111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzw111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzw111&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 
