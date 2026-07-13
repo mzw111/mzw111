@@ -18,7 +18,7 @@
 
 ##  The Ranger's Log
 
-> *"Night gathers, and my compiling begins. It shall not end until my code is clean. I shall write no bloated function, and build no fragile release. I shall live and debug at my post, until the deploy is done."*
+> *"I shall live and debug at my post, until the deploy is done."*
 
 
 -  Training in the old ways: **DSA** — recursion, backtracking, graphs, trees, DP, greedy
