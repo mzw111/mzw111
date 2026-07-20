@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1c2b36,100:0d1117&height=220&section=header&text=Mohammad%20Zaid%20Wadood&fontSize=40&fontColor=7fdbff&animation=fadeIn&fontAlignY=35&desc=%20Learner%20%7C%20Tech%20Explorer&descAlignY=55&descSize=17&descColor=c9d6df" width="100%"/>
 
-<a href="https://github.com/mzw111">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=21&pause=1200&color=7FDBFF&center=true&vCenter=true&width=650&lines=Winter+is+Coming...+and+so+are+Placements;The+Watcher+on+the+Codebase;For+the+Watch%2C+For+the+Craft;Recursion+Never+Sleeps+%F0%9F%A6%89" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mzw111&color=0d1117&style=for-the-badge&label=RAVENS+RECEIVED"/>
