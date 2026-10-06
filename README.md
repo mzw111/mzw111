@@ -36,11 +36,6 @@
 
 
 
-## Beyond the Wall — Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzw111&bg_color=0d1117&color=7fdbff&line=7fdbff&point=c9d6df&area_color=1c2b36&area=true&title_color=7fdbff&hide_border=true" width="95%"/>
-</div>
 
 
 ##  Send a Raven
